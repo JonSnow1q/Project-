@@ -1,4 +1,4 @@
-mportpywhatkit
+import pywhatkit
  #SendaWhatsAppMessagetoaContactat1:30PM 
 pywhatkit.sendwhatmsg("+910123456789","Hi",13,30) 
 #SameasabovebutClosestheTabin2SecondsafterSendingtheMessage
